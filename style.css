@@ -1,0 +1,13 @@
+#btn
+{
+	background-color: red;
+	border-radius: 5px;
+	border: none;
+	height: 30px;
+	width: 50px;
+}
+#box
+{
+	height: 25px;
+	border-style: none none solid none;
+}
